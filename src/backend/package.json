@@ -1,0 +1,14 @@
+{
+  "name": "@lfn/backend",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
