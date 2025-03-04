@@ -7,5 +7,5 @@ Overview:
     <li>Visualize cause and effect of LFN and reverberation.</li>
     <li>Visualize solution.</li>
     <li>Provide context for the visuals.</li>
-    <li>Techniques involved: Analogies, Data Analysis, System Design, and Supply Chain/Logistics.</li>
+    <li>Techniques involved: Analogies, Data Analysis, System Design, and Supply Chain and Logistics.</li>
 </ul>
