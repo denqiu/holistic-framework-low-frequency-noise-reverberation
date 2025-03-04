@@ -1,5 +1,7 @@
 <h1>Holistic Framework on Low-Frequency Noise and Reverberation</h1>
 
+<h2>Notice: Repository will be transferred to GitLab.</h2>
+
 <h2>This framework reflects my personal experiences and self-conducted research on LFN and reverberation, supported by available evidence, though it remains my opinion. It is how I make sense of overwhelming experiences and it offers adaptive solutions to manage them. However, evidence may not always be conclusive, and I value feedback from everyone.</h2>
 
 Overview:
