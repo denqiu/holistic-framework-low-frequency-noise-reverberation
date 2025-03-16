@@ -14,5 +14,5 @@
     <li>Visualize cause and effect of LFN and reverberation.</li>
     <li>Visualize adaptive solutions.</li>
     <li>Provide context for visuals.</li>
-    <li>Introduce analogies that synthesize concepts from multiple domains: Culinary Experience, Supply Chain (Transportation and Logistics), System Design, and Data Analysis.</li>
+    <li>Synthesize concepts from multiple domains: Culinary Experience, Supply Chain (Transportation and Logistics), System Design, and Data Analysis.</li>
 </ul>
