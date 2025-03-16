@@ -9,5 +9,5 @@ Overview:
     <li>Visualize cause and effect of LFN and reverberation.</li>
     <li>Visualize solution.</li>
     <li>Provide context for the visuals.</li>
-    <li>Techniques involved: Analogies, Culinary Experience, Supply Chain and Logistics, System Design, and Data Analysis.</li>
+    <li>Analogies synthesize concepts from multiple domains: Culinary Experience, Supply Chain (Transportation and Logistics), System Design, and Data Analysis.</li>
 </ul>
